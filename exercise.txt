@@ -1,0 +1,7 @@
+1. var's scope in not limited to code blocks, whereas let's is. var can also be redeclared.
+
+2. var can be redeclare, reassigned, and is not limited to code blocks.
+
+3. let can be reassigned.
+
+4. When a variable declared with var is accessed before it has been assigned any value.
